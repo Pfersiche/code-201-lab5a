@@ -31,7 +31,8 @@ Test this function by hand in the console to get it working, and when you think 
 // Write your code here
 function multiply(a, b) {
     let myMulti = a * b
-    let message = "the product of"
+    let message = "the product of " + 5 + "and " + 9 + " is " + 45 + "."
+return [myMulti, message]    
 
 }
 
